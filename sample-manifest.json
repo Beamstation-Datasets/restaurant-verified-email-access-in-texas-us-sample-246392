@@ -1,0 +1,12 @@
+{
+  "export_job_id": "7a28da09-33e6-4eee-a873-475216794c66",
+  "id_short": 246392,
+  "published_at": "2026-04-12T07:06:13Z",
+  "repo_name": "restaurant-verified-email-access-in-texas-us-sample-246392",
+  "sample_asset_name": "beamstation_246392_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/246392/beamstation_246392_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_records": 1000,
+  "sample_sha256": "00728e985192c27097fe0361513ecd6ee18ae0dedf70915ed27dce67cba5d281",
+  "sample_size_bytes": 3905864,
+  "total_records": 12625
+}
