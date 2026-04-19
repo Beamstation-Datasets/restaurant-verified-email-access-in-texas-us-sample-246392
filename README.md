@@ -9,9 +9,9 @@
 | Dataset ID | `246392` |
 | Location | Texas |
 | Category | Restaurants |
-| Full dataset size | 12,625 records |
-| Free sample size | 1,000 records (7.92%) |
-| Last export | 2026-04-08T04:02:39.697893+00:00 |
+| Full dataset size | 12,186 records |
+| Free sample size | 1,000 records (8.21%) |
+| Last export | 2026-04-15T08:55:09.741053+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/restaurant-verified-email-access-in-texas-us-sample-246392/releases/download/sample-latest/beamstation_246392_restaurants-us-tx_SAMPLE_DIST.csv) |
 
 ## What is in this sample
